@@ -1,0 +1,17 @@
+This repository contains the complete submission for the Cultus Real-World Project:
+"Interpretable Machine Learning: SHAP and LIME for Complex Financial Modeling".
+
+All code is fully implemented in:
+CJR_Financial_SHAP_LIME_Krishna1.ipynb
+
+The repository includes:
+- Preprocessed dataset
+- Trained models
+- SHAP global summary
+- SHAP local explanations (10 instances)
+- LIME local explanations (10 matching instances)
+- Code for training XGBoost and Neural Network models
+- Comparative analysis text in README.md
+
+That's it.
+This file prevents GitIngest from collecting unwanted garbage.
